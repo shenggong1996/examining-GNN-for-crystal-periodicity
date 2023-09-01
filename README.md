@@ -2,7 +2,7 @@
 
 This repo is associated with the paper: https://arxiv.org/abs/2208.05039 (Examining graph neural networks for crystal structures: limitations and opportunities for capturing periodicity)
 
-This repo provides the e3nn and de-e3nn designed specifically for predicting properties of crystal structures, and also the light-weighted version of dataset for quickly reproducing the key results of the paper, as well as testing the ability of new models on capturing periodicity.
+This repo provides the e3nn and de-e3nn designed specifically for predicting properties of crystal structures, and also the most important datasets for quickly reproducing the key results of the paper, as well as testing the ability of new models on capturing periodicity.
 
 Note: 
 
